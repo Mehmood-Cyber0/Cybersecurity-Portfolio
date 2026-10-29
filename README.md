@@ -1,7 +1,7 @@
-# Project 01: Operating System Fundamentals & Command Line
+# Project 01: Operating System Fundamentals.
 
 ## 🎯 Objective
-Mastering foundational operating system architecture, file structures, and command-line execution as part of the Meera Tamboli Cybersecurity Roadmap (Step 1: OS & Networking Foundations).
+Mastering the fundamentals,Characterstics and the purpose of the operating system.
 
 ## 🛠️ Environment & Tools
 * **Platform:** Windows 10 & Cisco Networking Academy
